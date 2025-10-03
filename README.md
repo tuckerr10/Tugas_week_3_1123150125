@@ -1,0 +1,1 @@
+Repositori ini berisi implementasi konsep-konsep dasar Object-Oriented Programming (OOP) menggunakan studi kasus pengelolaan data mahasiswa. Proyek ini mendemonstrasikan bagaimana Encapsulation, Inheritance, Polymorphism, dan Abstraction diaplikasikan untuk membuat struktur kode yang modular, mudah dikelola, dan dapat diperluas. 
